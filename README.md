@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zPASP
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Python and JS
+- 🌱 I’m currently learning Python, Java and JS
 - 💞️ I’m looking to collaborate on projects for personal development
 - 📫 How to reach me zpasp@live.com
 
